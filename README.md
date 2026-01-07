@@ -25,6 +25,7 @@ The output (masters and reduced images) are saved back into the OBSDATE folder w
 
 To run script on command line
 >python3 photred_ucmjo.py
+
 >python3 get_calibration_yaml.py
 
 The original development was using a .venv. Instructions to set up a .venv can/will be provided.
